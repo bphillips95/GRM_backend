@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  errorId: 
+  errorSeverity: MyString
+  errorCategory: MyString
+  errorMessage: MyString
+  errorTime: 
+  selected: false
+  new: false
+  expanded: false
+
+two:
+  errorId: 
+  errorSeverity: MyString
+  errorCategory: MyString
+  errorMessage: MyString
+  errorTime: 
+  selected: false
+  new: false
+  expanded: false
